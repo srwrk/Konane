@@ -18,8 +18,8 @@ versions of Python would result in syntax errors.
 ***************************************************************************
 After that, the program will prompt the user to input
 the mode of play - type
->  'Y' if you want to play versus the computer and
-'N' if you want the computer to play against itself
+>  'Y' if you want to play versus the computer and \
+> 'N' if you want the computer to play against itself
 
 ***************************************************************************
 Then it will ask the user for another prompt. Type in
