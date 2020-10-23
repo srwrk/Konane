@@ -54,7 +54,7 @@ where
 > X refers to the x-coordinate of the starting piece \
 > Y refers to the y-coordinate of the starting piece \
 > DIRECTION can be 'U' for up, 'D' for down, 'L' for left, 'R' for right \
-> \NO_OF_JUMPS can be 1,2, or 3. Jumps have to be in the same direction.
+> NO_OF_JUMPS can be 1,2, or 3. Jumps have to be in the same direction.
 
 ***************************************************************************
 Invalid entries might result in errors and termination of the
@@ -62,6 +62,7 @@ program.
 ***************************************************************************
 After the game finishes, the program will print out the following
 statistics:
+
 > 1. Number of times a static evaluation was done \
 > 2. Average branching factor \
 > 3. Number of cutoffs that took place
