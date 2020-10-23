@@ -68,6 +68,7 @@ statistics:
     2. Average branching factor
     3. Number of cutoffs that took place
 ![See the sample screenshot below](game_end.PNG)
+
 Hope you enjoy the game!
 ***************************************************************************
 ***************************************************************************
