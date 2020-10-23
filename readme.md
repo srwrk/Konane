@@ -61,10 +61,10 @@ Invalid entries might result in errors and termination of the
 program.
 ***************************************************************************
 After the game finishes, the program will print out the following
-statistics: \
+statistics:
 
-> 1. Number of times a static evaluation was done \
-> 2. Average branching factor \
+> 1. Number of times a static evaluation was done 
+> 2. Average branching factor 
 > 3. Number of cutoffs that took place
 
 ![See the sample screenshot below](game_end.PNG)
