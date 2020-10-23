@@ -1,6 +1,3 @@
-CS 420 Artificial Intelligence, Fall 2020 \
-Project 4 \
-Elene Karangozishvili and Sorawit Roongruengratanakul \
 Automated Konane Playing Program
 ***************************************************************************
 ***************************************************************************
