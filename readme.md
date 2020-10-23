@@ -1,6 +1,6 @@
-CS 420 Artificial Intelligence, Fall 2020
-Project 4
-Elene Karangozishvili and Sorawit Roongruengratanakul
+CS 420 Artificial Intelligence, Fall 2020 \
+Project 4 \
+Elene Karangozishvili and Sorawit Roongruengratanakul \
 Automated Konane Playing Program
 ***************************************************************************
 ***************************************************************************
@@ -64,9 +64,11 @@ program.
 ***************************************************************************
 After the game finishes, the program will print out the following
 statistics:
-    1. Number of times a static evaluation was done
-    2. Average branching factor
-    3. Number of cutoffs that took place
+>
+1. Number of times a static evaluation was done
+2. Average branching factor
+3. Number of cutoffs that took place
+
 ![See the sample screenshot below](game_end.PNG)
 
 Hope you enjoy the game!
