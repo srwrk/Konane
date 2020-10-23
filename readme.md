@@ -50,6 +50,7 @@ following format:
 > "X Y DIRECTION NO_OF_JUMPS"
 
 where
+
 > X refers to the x-coordinate of the starting piece \
 > Y refers to the y-coordinate of the starting piece \
 > DIRECTION can be 'U' for up, 'D' for down, 'L' for left, 'R' for right \
