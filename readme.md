@@ -1,7 +1,7 @@
 Automated Konane Playing Program
 ***************************************************************************
 ***************************************************************************
-This programs lets users play Konane, a Brazilian
+This programs lets users play Konane, a Hawaiian
 checkers game, either completely automated (computer
 plays against itself) or half automated (player
 plays against computer).
