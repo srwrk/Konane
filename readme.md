@@ -1,4 +1,4 @@
-Automated Konane Playing Program
+Automated Konane (Hawaiian Checkers)
 ***************************************************************************
 ***************************************************************************
 This programs lets users play Konane, a Hawaiian
